@@ -1,1 +1,4 @@
-# r5ReloadedBloodHoundAXE
+bloodhound heirloom for r5 reload
+
+install:
+root/platform/scripts/weapons
